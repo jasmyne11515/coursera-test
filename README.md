@@ -1,2 +1,2 @@
-# coursera-test
+# Coursera - Tools for Data Science
 Coursera test repository
